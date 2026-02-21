@@ -58,5 +58,410 @@
     "title": "Episode 015: Chase Legler - Sonder Brewing",
     "notion_url": "https://www.notion.so/Ep-14-Chase-Legler-Sonder-Brewing-30c4914f789081c29d99ebc50321821d",
     "processed_at": "2026-02-19T22:32:40.001560"
+  },
+  "15": {
+    "title": "Episode 014: September 2023 Livestream Q&A!",
+    "notion_url": "https://www.notion.so/Ep-15-September-2023-Livestream-Q-A-30d4914f789081e9a61fc54d69cf1246",
+    "processed_at": "2026-02-20T18:36:07.508964"
+  },
+  "16": {
+    "title": "Episode 016: October 2023 Livestream Q&A!",
+    "notion_url": "https://www.notion.so/Ep-16-October-2023-Livestream-Q-A-30d4914f789081e7b77aeb9deabb894c",
+    "processed_at": "2026-02-20T18:43:18.873950"
+  },
+  "17": {
+    "title": "Episode 017: Drew Barnes - VP Blichmann Engineering",
+    "notion_url": "https://www.notion.so/Ep-17-Drew-Barnes-VP-Blichmann-Engineering-30d4914f789081d59023e145fa6c88af",
+    "processed_at": "2026-02-20T18:49:53.299057"
+  },
+  "18": {
+    "title": "Episode 018: November 2023 Livestream Q&A",
+    "notion_url": "https://www.notion.so/Ep-18-November-2023-Livestream-Q-A-30d4914f789081d0a412d81c826af2f9",
+    "processed_at": "2026-02-20T18:58:29.845615"
+  },
+  "19": {
+    "title": "Episode 019: Josh Toft - Head Brewer at Cartridge Brewing",
+    "notion_url": "https://www.notion.so/Ep-19-Josh-Toft-Head-Brewer-at-Cartridge-Brewing-30d4914f789081b28991c8d7e09959ec",
+    "processed_at": "2026-02-20T19:05:12.921843"
+  },
+  "20": {
+    "title": "Episode 020: December Livestream Q&A",
+    "notion_url": "https://www.notion.so/Ep-20-December-Livestream-Q-A-30d4914f789081c4b762ca4d5d7d7bac",
+    "processed_at": "2026-02-20T19:14:07.982912"
+  },
+  "21": {
+    "title": "Episode 021: Steve \"Hendo\" Henderson - Rockstar Brewer Academy",
+    "notion_url": "https://www.notion.so/Ep-21-Steve-Hendo-Henderson-Rockstar-Brewer-Academy-30d4914f7890817d923ad96ce0f97652",
+    "processed_at": "2026-02-20T19:23:35.471210"
+  },
+  "22": {
+    "title": "Episode 022: January 2024 Livestream Q&A",
+    "notion_url": "https://www.notion.so/Ep-22-January-2024-Livestream-Q-A-30d4914f78908176a0e2e66ae629b804",
+    "processed_at": "2026-02-20T19:32:30.808272"
+  },
+  "23": {
+    "title": "Episode 023: Mitch Steele - New Realm Brewing",
+    "notion_url": "https://www.notion.so/Ep-23-Mitch-Steele-New-Realm-Brewing-30d4914f789081a8913fc7edb9b76b09",
+    "processed_at": "2026-02-20T19:39:39.969631"
+  },
+  "24": {
+    "title": "Episode 024: February 2024 Livestream Q&A",
+    "notion_url": "https://www.notion.so/Ep-24-February-2024-Livestream-Q-A-30d4914f7890812f9298fb2643267b51",
+    "processed_at": "2026-02-20T19:48:08.975227"
+  },
+  "25": {
+    "title": "Episode 025: Julian Shrago - Beachwood Brewing",
+    "notion_url": "https://www.notion.so/Ep-25-Julian-Shrago-Beachwood-Brewing-30d4914f7890816fa74adcd505303168",
+    "processed_at": "2026-02-20T19:55:43.571527"
+  },
+  "26": {
+    "title": "Episode 026: March 2024 Livestream Q&A",
+    "notion_url": "https://www.notion.so/Ep-26-March-2024-Livestream-Q-A-30d4914f78908177bdaec7f617e47f73",
+    "processed_at": "2026-02-20T20:03:06.428745"
+  },
+  "27": {
+    "title": "Episode 027: John Palmer - How To Brew",
+    "notion_url": "https://www.notion.so/Ep-27-John-Palmer-How-To-Brew-30d4914f7890815e9dfee613801bedd8",
+    "processed_at": "2026-02-20T20:15:19.057989"
+  },
+  "28": {
+    "title": "Episode 028: Growing Your Career In The Brewing Industry!",
+    "notion_url": "https://www.notion.so/Ep-28-Growing-Your-Career-In-The-Brewing-Industry-30d4914f789081f8b0d0df6e6a260835",
+    "processed_at": "2026-02-20T20:19:38.132101"
+  },
+  "29": {
+    "title": "Episode 030: Jessie Smith - Queen City Quality Lab",
+    "notion_url": "https://www.notion.so/Ep-29-Jessie-Smith-Queen-City-Quality-Lab-30d4914f78908121b01ecd292bd1b662",
+    "processed_at": "2026-02-20T20:27:00.710214"
+  },
+  "30": {
+    "title": "Episode 29: April 2024 Livestream Q&A",
+    "notion_url": "https://www.notion.so/Ep-30-April-2024-Livestream-Q-A-30e4914f78908158bfa0ef3c1276e36a",
+    "processed_at": "2026-02-21T05:55:43.649197"
+  },
+  "31": {
+    "title": "Episode 031: May 2024 Livestream Q&A Podcast!",
+    "notion_url": "https://www.notion.so/Ep-31-May-2024-Livestream-Q-A-Podcast-30e4914f7890816b92fff7e8cec7c52e",
+    "processed_at": "2026-02-21T06:02:40.432049"
+  },
+  "32": {
+    "title": "Episode 032: Andy Gallagher - West Coast Pilsner",
+    "notion_url": "https://www.notion.so/Ep-32-Andy-Gallagher-West-Coast-Pilsner-30e4914f7890814d81bfc6bbb08b56e4",
+    "processed_at": "2026-02-21T06:08:56.698449"
+  },
+  "33": {
+    "title": "Episode 033: June 2024 Livestream Q&A Podcast!",
+    "notion_url": "https://www.notion.so/Ep-33-June-2024-Livestream-Q-A-Podcast-30e4914f78908143bcd6c354b129fadf",
+    "processed_at": "2026-02-21T06:17:22.845216"
+  },
+  "34": {
+    "title": "Episode 034: Tom Miller - Blichmann Engineering",
+    "notion_url": "https://www.notion.so/Ep-34-Tom-Miller-Blichmann-Engineering-30e4914f7890810b82eeed77a788250a",
+    "processed_at": "2026-02-21T06:23:05.604376"
+  },
+  "35": {
+    "title": "Episode 035: July 2024 Livestream Q&A",
+    "notion_url": "https://www.notion.so/Ep-35-July-2024-Livestream-Q-A-30e4914f789081c98291f5f89401950a",
+    "processed_at": "2026-02-21T06:29:54.452630"
+  },
+  "36": {
+    "title": "Episode 37: August 2024 Livestream Q&A Podcast!",
+    "notion_url": "https://www.notion.so/Ep-36-August-2024-Livestream-Q-A-Podcast-30e4914f789081558065ee550160248a",
+    "processed_at": "2026-02-21T06:35:34.859947"
+  },
+  "37": {
+    "title": "Episode 036: David Lentz - Brewed Fiscally",
+    "notion_url": "https://www.notion.so/Ep-37-David-Lentz-Brewed-Fiscally-30e4914f789081da9862f7e246e4a4aa",
+    "processed_at": "2026-02-21T06:41:36.443463"
+  },
+  "38": {
+    "title": "Episode 037: September 2024 Livestream Q&A Podcast!",
+    "notion_url": "https://www.notion.so/Ep-38-September-2024-Livestream-Q-A-Podcast-30e4914f789081de800beaced2667fe8",
+    "processed_at": "2026-02-21T06:47:40.493516"
+  },
+  "39": {
+    "title": "Episode 038: October 2024 Livestream Q&A Podcast",
+    "notion_url": "https://www.notion.so/Ep-39-October-2024-Livestream-Q-A-Podcast-30e4914f789081ceae57fe68705983a9",
+    "processed_at": "2026-02-21T06:53:11.106952"
+  },
+  "41": {
+    "title": "Episode 040: December Livestream Q&A Podcast",
+    "notion_url": "https://www.notion.so/Ep-41-December-Livestream-Q-A-Podcast-30e4914f7890812bb960e4608fd024e9",
+    "processed_at": "2026-02-21T07:01:40.847652"
+  },
+  "42": {
+    "title": "Episode 041: January 2025 Livestream Q&A Podcast!",
+    "notion_url": "https://www.notion.so/Ep-42-January-2025-Livestream-Q-A-Podcast-30e4914f7890818aa791ee4145735755",
+    "processed_at": "2026-02-21T07:09:41.986461"
+  },
+  "43": {
+    "title": "Episode 042: Richard Preiss - Escarpment Laboratories",
+    "notion_url": "https://www.notion.so/Ep-43-Richard-Preiss-Escarpment-Laboratories-30e4914f789081138b9cf5b69e2f2442",
+    "processed_at": "2026-02-21T07:16:40.866655"
+  },
+  "44": {
+    "title": "Episode 043: Boyd Culver - Cold Break",
+    "notion_url": "https://www.notion.so/Ep-44-Boyd-Culver-Cold-Break-30e4914f7890816b8b60c00c78a20666",
+    "processed_at": "2026-02-21T07:23:09.296567"
+  },
+  "45": {
+    "title": "E44: Gruit, Dandelion Roots, & More: Alex Rhinehart - Southridge Brewing",
+    "notion_url": "https://www.notion.so/Ep-45-E44-Gruit-Dandelion-Roots-More-Alex-Rhinehart-Southridge-Brewing-30e4914f789081b3bf0fea9ebef87371",
+    "processed_at": "2026-02-21T07:29:11.677058"
+  },
+  "46": {
+    "title": "E45: CO2 Recovery Systems w/ Dalum Beverage Equipment",
+    "notion_url": "https://www.notion.so/Ep-46-E45-CO2-Recovery-Systems-w-Dalum-Beverage-Equipment-30e4914f789081e1b7b5c1845c74460f",
+    "processed_at": "2026-02-21T07:34:58.798577"
+  },
+  "47": {
+    "title": "E46: Beer Quality, Terpenes, & NA Beer with John Haggerty of Warped Wing",
+    "notion_url": "https://www.notion.so/Ep-47-E46-Beer-Quality-Terpenes-NA-Beer-with-John-Haggerty-of-Warped-Wing-30e4914f78908161a830e0d4c48b83ed",
+    "processed_at": "2026-02-21T07:41:50.925848"
+  },
+  "48": {
+    "title": "E47: 2025 March Livestream Q&A Podcast",
+    "notion_url": "https://www.notion.so/Ep-48-E47-2025-March-Livestream-Q-A-Podcast-30e4914f789081298f45c697dc1d8062",
+    "processed_at": "2026-02-21T07:48:12.319652"
+  },
+  "49": {
+    "title": "E48: Amy Mast on Communication - Craft Leadership",
+    "notion_url": "https://www.notion.so/Ep-49-E48-Amy-Mast-on-Communication-Craft-Leadership-30e4914f789081789885e83748e5dae1",
+    "processed_at": "2026-02-21T07:53:09.633646"
+  },
+  "51": {
+    "title": "E50: April 2025 Livestream Q&A Podcast!",
+    "notion_url": "https://www.notion.so/Ep-51-E50-April-2025-Livestream-Q-A-Podcast-30e4914f7890817db06cef8711aaeac3",
+    "processed_at": "2026-02-21T08:07:00.185021"
+  },
+  "53": {
+    "title": "E52: Understanding Hop Creep w/ Jessica Young",
+    "notion_url": "https://www.notion.so/Ep-53-E52-Understanding-Hop-Creep-w-Jessica-Young-30e4914f789081fca939fdab44ce7ea0",
+    "processed_at": "2026-02-21T08:19:06.707688"
+  },
+  "54": {
+    "title": "E53: May Livestream Q&A Podcast - Third Anniversary Edition!",
+    "notion_url": "https://www.notion.so/Ep-54-E53-May-Livestream-Q-A-Podcast-Third-Anniversary-Edition-30e4914f78908190aa26f20005a1eb02",
+    "processed_at": "2026-02-21T08:25:42.670664"
+  },
+  "55": {
+    "title": "E54: Cody Sherwood - Less Hate. More Lager.",
+    "notion_url": "https://www.notion.so/Ep-55-E54-Cody-Sherwood-Less-Hate-More-Lager-30e4914f7890810bbbf0e8676c7584c7",
+    "processed_at": "2026-02-21T08:31:48.333803"
+  },
+  "56": {
+    "title": "E55: Shanleigh Thomsen - Shan Ferments",
+    "notion_url": "https://www.notion.so/Ep-56-E55-Shanleigh-Thomsen-Shan-Ferments-30e4914f789081189addcb17c81ef40d",
+    "processed_at": "2026-02-21T08:37:52.260985"
+  },
+  "57": {
+    "title": "E56: Gabrielle Lannes Maurey - Cervejaria Dogma",
+    "notion_url": "https://www.notion.so/Ep-57-E56-Gabrielle-Lannes-Maurey-Cervejaria-Dogma-30e4914f789081e3ab9acb1d0ce9e008",
+    "processed_at": "2026-02-21T08:43:46.897256"
+  },
+  "58": {
+    "title": "E57: Ken Schramm | Schramm's Mead & The Compleat Meadmaker",
+    "notion_url": "https://www.notion.so/Ep-58-E57-Ken-Schramm-Schramm-s-Mead-The-Compleat-Meadmaker-30e4914f78908109b519f72604b24980",
+    "processed_at": "2026-02-21T08:50:31.736337"
+  },
+  "59": {
+    "title": "E58: Craig Thomas - Abstrax Hops",
+    "notion_url": "https://www.notion.so/Ep-59-E58-Craig-Thomas-Abstrax-Hops-30e4914f7890819c95c2caf103f34a2a",
+    "processed_at": "2026-02-21T08:56:41.597956"
+  },
+  "60": {
+    "title": "E59: Career Development Podcast - What Is Your Why?",
+    "notion_url": "https://www.notion.so/Ep-60-E59-Career-Development-Podcast-What-Is-Your-Why-30e4914f789081a19b19eb15e2070027",
+    "processed_at": "2026-02-21T08:59:42.352491"
+  },
+  "62": {
+    "title": "E61: Devin Smith - Clarion River Brewing Co",
+    "notion_url": "https://www.notion.so/Ep-62-E61-Devin-Smith-Clarion-River-Brewing-Co-30e4914f78908142b3b7f19bf3824d1a",
+    "processed_at": "2026-02-21T09:08:56.820263"
+  },
+  "63": {
+    "title": "E62: Antonio Sanchez - Wort Wrangler",
+    "notion_url": "https://www.notion.so/Ep-63-E62-Antonio-Sanchez-Wort-Wrangler-30e4914f789081f69817d7289f48ceb6",
+    "processed_at": "2026-02-21T09:14:57.273942"
+  },
+  "64": {
+    "title": "E63: July 2025 Livestream Q&A!",
+    "notion_url": "https://www.notion.so/Ep-64-E63-July-2025-Livestream-Q-A-30e4914f789081ca9cffeb7e82285fe7",
+    "processed_at": "2026-02-21T09:22:12.478193"
+  },
+  "65": {
+    "title": "E64: Dr. Matt Winans - Yeast Deep Dive!",
+    "notion_url": "https://www.notion.so/Ep-65-E64-Dr-Matt-Winans-Yeast-Deep-Dive-30e4914f789081f8858de0a292d760a2",
+    "processed_at": "2026-02-21T09:29:00.023861"
+  },
+  "66": {
+    "title": "E65: August Livestream Q&A!",
+    "notion_url": "https://www.notion.so/Ep-66-E65-August-Livestream-Q-A-30e4914f789081798f72d707477a5740",
+    "processed_at": "2026-02-21T09:36:18.156616"
+  },
+  "67": {
+    "title": "E66: Justin Crossley - The Brewing Network & The Hop Grenade",
+    "notion_url": "https://www.notion.so/Ep-67-E66-Justin-Crossley-The-Brewing-Network-The-Hop-Grenade-30e4914f78908196a86cfaa15dccf568",
+    "processed_at": "2026-02-21T09:41:56.308451"
+  },
+  "68": {
+    "title": "E67: Dealing With Conflict - Career Development Pod",
+    "notion_url": "https://www.notion.so/Ep-68-E67-Dealing-With-Conflict-Career-Development-Pod-30e4914f789081439728fe0845f93b20",
+    "processed_at": "2026-02-21T09:45:06.501291"
+  },
+  "69": {
+    "title": "Small Town Guys: Episode Zero",
+    "notion_url": "https://www.notion.so/Ep-69-Small-Town-Guys-Episode-Zero-30e4914f789081d7bc26c241cf3a0fac",
+    "processed_at": "2026-02-21T09:48:41.684583"
+  },
+  "70": {
+    "title": "E68: Chris Lewington - Brew Resourceful",
+    "notion_url": "https://www.notion.so/Ep-70-E68-Chris-Lewington-Brew-Resourceful-30e4914f7890810dbd08dfcfbbe759d7",
+    "processed_at": "2026-02-21T09:55:18.444403"
+  },
+  "71": {
+    "title": "Chargers vs Chiefs Watch Party - Small Town Guys Pod",
+    "notion_url": "https://www.notion.so/Ep-71-Chargers-vs-Chiefs-Watch-Party-Small-Town-Guys-Pod-30e4914f7890813d994bf67760935717",
+    "processed_at": "2026-02-21T10:01:02.062999"
+  },
+  "72": {
+    "title": "E69: September Livestream Q&A - CIP Mega Show!",
+    "notion_url": "https://www.notion.so/Ep-72-E69-September-Livestream-Q-A-CIP-Mega-Show-30e4914f789081e3a5e8ff09db5436ea",
+    "processed_at": "2026-02-21T10:08:29.332399"
+  },
+  "73": {
+    "title": "Small Town Guys: MNF Hangout",
+    "notion_url": "https://www.notion.so/Ep-73-Small-Town-Guys-MNF-Hangout-30e4914f789081a7a9d6d7bb785262a7",
+    "processed_at": "2026-02-21T10:12:49.066123"
+  },
+  "74": {
+    "title": "E70: Jon Blevins: Bearded Blevins",
+    "notion_url": "https://www.notion.so/Ep-74-E70-Jon-Blevins-Bearded-Blevins-30e4914f789081ce80a7d36a9ecadcde",
+    "processed_at": "2026-02-21T10:18:00.141879"
+  },
+  "75": {
+    "title": "E71: Jeremy Hunt - NoCoast Brewing Co",
+    "notion_url": "https://www.notion.so/Ep-75-E71-Jeremy-Hunt-NoCoast-Brewing-Co-30e4914f789081bcace0ee849d4d3e4d",
+    "processed_at": "2026-02-21T10:24:50.837476"
+  },
+  "76": {
+    "title": "E4: Small Town Guys - TNF Hangout",
+    "notion_url": "https://www.notion.so/Ep-76-E4-Small-Town-Guys-TNF-Hangout-30e4914f78908106b624fbb8de3006b3",
+    "processed_at": "2026-02-21T10:29:14.027089"
+  },
+  "77": {
+    "title": "E72: Hannah Ison - Zero Day Brewing",
+    "notion_url": "https://www.notion.so/Ep-77-E72-Hannah-Ison-Zero-Day-Brewing-30e4914f789081eb9f28d8a569165344",
+    "processed_at": "2026-02-21T10:34:17.651748"
+  },
+  "78": {
+    "title": "E5: Small Town Guys - TNF Hangout",
+    "notion_url": "https://www.notion.so/Ep-78-E5-Small-Town-Guys-TNF-Hangout-30e4914f7890812587b7f0116f3d5dfb",
+    "processed_at": "2026-02-21T10:39:37.754958"
+  },
+  "79": {
+    "title": "E73: Jennifer Talley",
+    "notion_url": "https://www.notion.so/Ep-79-E73-Jennifer-Talley-30e4914f7890817c95b9d57088ca7ab9",
+    "processed_at": "2026-02-21T10:45:40.672230"
+  },
+  "80": {
+    "title": "E6: Small Town Guys - TNF Hangout",
+    "notion_url": "https://www.notion.so/Ep-80-E6-Small-Town-Guys-TNF-Hangout-30e4914f7890810b8712f2160c38da25",
+    "processed_at": "2026-02-21T10:51:15.406817"
+  },
+  "81": {
+    "title": "E74: Livestream AMA: Brew Day Processes Podcast!",
+    "notion_url": "https://www.notion.so/Ep-81-E74-Livestream-AMA-Brew-Day-Processes-Podcast-30e4914f789081cfb5b5d01e9dfd0f78",
+    "processed_at": "2026-02-21T10:59:12.847506"
+  },
+  "82": {
+    "title": "E75: Livestream AMA: Recipe Writing Podcast!",
+    "notion_url": "https://www.notion.so/Ep-82-E75-Livestream-AMA-Recipe-Writing-Podcast-30e4914f78908132a2ffcce2905aa809",
+    "processed_at": "2026-02-21T11:07:48.242189"
+  },
+  "83": {
+    "title": "E76: Geoffrey Wright - Fall Line Brewing",
+    "notion_url": "https://www.notion.so/Ep-83-E76-Geoffrey-Wright-Fall-Line-Brewing-30e4914f78908168b4c3e9cabbcb8972",
+    "processed_at": "2026-02-21T11:15:31.079009"
+  },
+  "85": {
+    "title": "E78: Aaron Ross - Kalamazoo Valley Community College",
+    "notion_url": "https://www.notion.so/Ep-85-E78-Aaron-Ross-Kalamazoo-Valley-Community-College-30e4914f789081c6963dfb63555043d8",
+    "processed_at": "2026-02-21T11:27:16.359445"
+  },
+  "86": {
+    "title": "E79: Maalik Stark - Zeroday Brewing Co.",
+    "notion_url": "https://www.notion.so/Ep-86-E79-Maalik-Stark-Zeroday-Brewing-Co-30e4914f789081b0ada3ef9470a00967",
+    "processed_at": "2026-02-21T11:31:42.972613"
+  },
+  "87": {
+    "title": "E80: Rockne Van Meter - Redwood Brewing Company",
+    "notion_url": "https://www.notion.so/Ep-87-E80-Rockne-Van-Meter-Redwood-Brewing-Company-30e4914f789081399c29f0ee6e7d84ab",
+    "processed_at": "2026-02-21T11:39:08.060859"
+  },
+  "88": {
+    "title": "E81: Tonya Cornett - UPP Liquids",
+    "notion_url": "https://www.notion.so/Ep-88-E81-Tonya-Cornett-UPP-Liquids-30e4914f7890811aa59be5ebec157af8",
+    "processed_at": "2026-02-21T11:45:33.807838"
+  },
+  "89": {
+    "title": "E82: Ashley Rose - Ohio Craft Brewers Association",
+    "notion_url": "https://www.notion.so/Ep-89-E82-Ashley-Rose-Ohio-Craft-Brewers-Association-30e4914f78908115b2f5f9014ba014a2",
+    "processed_at": "2026-02-21T11:49:09.230811"
+  },
+  "90": {
+    "title": "E83: Mary MacDonald - Ohio Craft Brewers Association",
+    "notion_url": "https://www.notion.so/Ep-90-E83-Mary-MacDonald-Ohio-Craft-Brewers-Association-30e4914f78908165a24fd33c239b12de",
+    "processed_at": "2026-02-21T11:53:17.669811"
+  },
+  "91": {
+    "title": "Unitanks, Dry Hop Techniques, Caring For Your Heat Ex, & More!",
+    "notion_url": "https://www.notion.so/Ep-91-Unitanks-Dry-Hop-Techniques-Caring-For-Your-Heat-Ex-More-30e4914f789081c59f61e5973886817b",
+    "processed_at": "2026-02-21T12:00:32.266229"
+  },
+  "92": {
+    "title": "E85: Industry Pro Podcast - Adam Mills",
+    "notion_url": "https://www.notion.so/Ep-92-E85-Industry-Pro-Podcast-Adam-Mills-30e4914f7890812981b1c5c9c0e3fef9",
+    "processed_at": "2026-02-21T12:06:00.628346"
+  },
+  "93": {
+    "title": "E86: Marty Nachel - American Craft Beer Hall of Fame",
+    "notion_url": "https://www.notion.so/Ep-93-E86-Marty-Nachel-American-Craft-Beer-Hall-of-Fame-30e4914f78908117963be5065028797b",
+    "processed_at": "2026-02-21T12:09:45.323254"
+  },
+  "94": {
+    "title": "E87: Kevin Granger - Passion vs Calling: Career Development Pod",
+    "notion_url": "https://www.notion.so/Ep-94-E87-Kevin-Granger-Passion-vs-Calling-Career-Development-Pod-30e4914f789081ab9e8befb508cbbf3d",
+    "processed_at": "2026-02-21T12:14:02.811662"
+  },
+  "96": {
+    "title": "E89: Chris Lohring - Lager Brewing Deep Dive!",
+    "notion_url": "https://www.notion.so/Ep-96-E89-Chris-Lohring-Lager-Brewing-Deep-Dive-30e4914f7890816684b8eb2f6066d4db",
+    "processed_at": "2026-02-21T12:27:16.957464"
+  },
+  "97": {
+    "title": "E90: Teresa Psuty - Crooked Lane Brewing",
+    "notion_url": "https://www.notion.so/Ep-97-E90-Teresa-Psuty-Crooked-Lane-Brewing-30e4914f78908125a0d5fa47ce8ffab1",
+    "processed_at": "2026-02-21T12:33:13.401675"
+  },
+  "98": {
+    "title": "E91: DMS, GF Beer, NEIPA, & More - Livestream AMA Podcast!",
+    "notion_url": "https://www.notion.so/Ep-98-E91-DMS-GF-Beer-NEIPA-More-Livestream-AMA-Podcast-30e4914f789081adad56daaa45365be2",
+    "processed_at": "2026-02-21T12:41:10.272886"
+  },
+  "8": {
+    "title": "Episode 008: Building Dynamic Teams: Drive Stability & Innovation",
+    "notion_url": "https://www.notion.so/Ep-8-Building-Dynamic-Teams-Drive-Stability-Innovation-30ef15f0da8881789ad7d6556f823e72",
+    "processed_at": "2026-02-21T21:15:24.820799"
+  },
+  "11": {
+    "title": "Episode 073: Dry Hopping's Correlation with Diacetyl",
+    "notion_url": "https://www.notion.so/Ep-11-Dry-Hopping-s-Correlation-with-Diacetyl-30ef15f0da8881e08dd2e16b5d66d74f",
+    "processed_at": "2026-02-21T21:22:56.602970"
+  },
+  "40": {
+    "title": "Episode 122: The Pursuit of Freshness",
+    "notion_url": "https://www.notion.so/Ep-40-The-Pursuit-of-Freshness-30ef15f0da88818d9eadd744959a42fa",
+    "processed_at": "2026-02-21T21:26:08.216225"
   }
 }
