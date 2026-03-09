@@ -22,10 +22,11 @@ logger = get_logger("podscriber")
 @click.option("--limit", "-n", type=int, default=None, help="Max number of unprocessed episodes to process")
 @click.option("--dry-run", is_flag=True, default=False, help="Print what would be processed without calling APIs")
 @click.option("--feed-url", default=None, help="Override the RSS feed URL from .env")
-def main(episode: int | None, from_episode: int | None, limit: int | None, dry_run: bool, feed_url: str | None) -> None:
+@click.option("--database", "database_id", default=None, help="Override the Notion database ID from .env")
+def main(episode: int | None, from_episode: int | None, limit: int | None, dry_run: bool, feed_url: str | None, database_id: str | None) -> None:
     """Podscriber: transcribe and extract brewing insights from podcast episodes."""
     try:
-        config = load_config(feed_url_override=feed_url)
+        config = load_config(feed_url_override=feed_url, database_id_override=database_id)
     except ValueError as e:
         click.echo(f"Configuration error: {e}", err=True)
         sys.exit(1)
