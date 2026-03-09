@@ -39,6 +39,12 @@ def _ensure_database_properties(notion: Client, database_id: str) -> set[str]:
         return set()
 
 
+def check_database(database_id: str, api_key: str) -> None:
+    """Verify the Notion database is accessible. Raises on failure."""
+    notion = Client(auth=api_key)
+    notion.databases.retrieve(database_id=database_id)
+
+
 def create_episode_page(
     episode: Episode,
     insights: BrewingInsights,

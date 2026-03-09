@@ -9,7 +9,7 @@ from extractor import extract_insights
 from feed import parse_feed
 from logger import get_logger
 from models import Episode
-from notion_writer import create_episode_page
+from notion_writer import check_database, create_episode_page
 from state import StateManager
 from transcriber import transcribe
 
@@ -74,6 +74,9 @@ def _process_episode(episode: Episode, config, state: StateManager) -> None:
     audio_paths = []
     try:
         logger.info(f"[Ep. {episode.number}] Starting: {episode.title}")
+
+        logger.info(f"[Ep. {episode.number}] Checking Notion database...")
+        check_database(config.notion_database_id, config.notion_api_key)
 
         logger.info(f"[Ep. {episode.number}] Downloading audio...")
         raw_path = download_audio(episode.audio_url, config.temp_dir, episode.number)
