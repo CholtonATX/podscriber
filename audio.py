@@ -24,7 +24,8 @@ def download_audio(url: str, temp_dir: str, episode_number: int) -> Path:
         try:
             logger.info(f"Downloading audio to {dest} (attempt {attempt}/{_DOWNLOAD_RETRIES})")
             dest.unlink(missing_ok=True)  # Remove partial file from previous attempt
-            with requests.get(url, stream=True, timeout=120) as r:
+            headers = {"User-Agent": "Podscriber/1.0"}
+            with requests.get(url, stream=True, timeout=120, headers=headers) as r:
                 r.raise_for_status()
                 with open(dest, "wb") as f:
                     for chunk in r.iter_content(chunk_size=1024 * 1024):
@@ -32,7 +33,7 @@ def download_audio(url: str, temp_dir: str, episode_number: int) -> Path:
             size_mb = dest.stat().st_size / (1024 * 1024)
             logger.info(f"Downloaded {size_mb:.1f} MB")
             return dest
-        except (requests.ConnectionError, requests.ChunkedEncodingError) as e:
+        except (requests.ConnectionError, requests.exceptions.ChunkedEncodingError) as e:
             if attempt == _DOWNLOAD_RETRIES:
                 raise
             logger.warning(f"Download interrupted ({e}), retrying in {_RETRY_DELAY}s...")

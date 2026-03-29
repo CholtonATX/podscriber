@@ -15,7 +15,7 @@ class Config:
     temp_dir: str = field(default="/tmp/podscriber")
 
 
-def load_config(feed_url_override: str | None = None) -> Config:
+def load_config(feed_url_override: str | None = None, database_id_override: str | None = None) -> Config:
     """Load and validate config from .env. Raises ValueError on missing keys."""
     load_dotenv()
 
@@ -38,7 +38,7 @@ def load_config(feed_url_override: str | None = None) -> Config:
         openai_api_key=required["OPENAI_API_KEY"],
         anthropic_api_key=required["ANTHROPIC_API_KEY"],
         notion_api_key=required["NOTION_API_KEY"],
-        notion_database_id=required["NOTION_DATABASE_ID"],
+        notion_database_id=database_id_override or required["NOTION_DATABASE_ID"],
         rss_feed_url=feed_url_override or required["RSS_FEED_URL"],
         temp_dir=temp_dir,
     )
