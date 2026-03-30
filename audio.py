@@ -32,7 +32,7 @@ def download_audio(url: str, temp_dir: str, episode_number: int) -> Path:
             size_mb = dest.stat().st_size / (1024 * 1024)
             logger.info(f"Downloaded {size_mb:.1f} MB")
             return dest
-        except (requests.ConnectionError, requests.ChunkedEncodingError) as e:
+        except (requests.ConnectionError, requests.exceptions.ChunkedEncodingError) as e:
             if attempt == _DOWNLOAD_RETRIES:
                 raise
             logger.warning(f"Download interrupted ({e}), retrying in {_RETRY_DELAY}s...")

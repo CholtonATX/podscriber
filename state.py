@@ -2,7 +2,7 @@ import json
 from datetime import datetime
 from pathlib import Path
 
-STATE_FILE = Path("processed_episodes.json")
+STATE_FILE = Path(".processed_episodes.json")
 
 
 class StateManager:
